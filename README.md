@@ -33,21 +33,45 @@ Kirinyaga University – Kenya (2024)
 
 ## 💼 Professional Experience
 
-**Data Analyst Attaché**  
-*Kenya Seed Company – Kitale, Kenya*  
-*June 2023 – August 2024*  
-- Conducted experimental data collection, entry, analysis, and presentation of summary statistics across multiple crops.  
-- Computed varietal means using SPSS, GenStat, and R for wheat, maize, sunflower, and pasture.  
-- Performed field plot observations, ICT duties, and morphological description for Distinctness, Uniformity, and Stability (DUS) tests.  
+## Data Analyst Attachee
+**Kenya Seed Company – Kitale, Kenya**  
+*June 2023 – August 2023*
 
-**Junior Data Analyst / Data Entry Specialist**  
-*Akili Limited – Kutus, Kirinyaga County*  
-*Sept 2024 – Present*  
-- Performed accurate entry of large datasets, ensuring consistency and adherence to company standards.  
-- Cleaned and standardized data to eliminate duplicates, correct errors, and handle missing values.  
-- Collaborated with cross-departmental teams to resolve discrepancies and streamline data processes.  
-- Monitored data integrity and recommended optimizations for sustained high-quality data operations.  
+- Conducted experimental data collection, entry, analysis, and presentation of summary statistics for crop trials
+- Computed varietal means using SPSS, GenStat, and R to support research and breeding decisions
+- Performed plot observations and varietal descriptions using morphological data
+- Participated in DUS (Distinctness, Uniformity, and Stability) testing for multiple crops
+- Assisted in preparing analytical reports for breeders and research teams
 
+### Additional Analytical Project
+- Independently analyzed Kenya’s 2022 Presidential Election data using Python and R
+- Identified regional voting patterns and voter turnout disparities across counties
+- Developed data visualizations to communicate insights for civic awareness and policy discussion
+
+---
+
+## Junior Data Analyst Assistant / Data Entry Specialist
+**Akili Holdings Ltd – Kirinyaga, Kenya**  
+*Sept 2024 – Present*
+
+- Clean, validate, and standardize large datasets to improve accuracy and usability
+- Identify and resolve data inconsistencies, enhancing overall data quality
+- Collaborate with cross-functional teams to improve data workflows and reporting processes
+- Maintain data integrity and support decision-making through reliable datasets
+
+### Key Projects Handled
+
+#### Hongera Cookstove Project
+- Analyzed household adoption data and usage trends
+- Generated summary statistics and visual reports for decision-making
+
+#### Misitu Project
+- Managed environmental datasets on tree planting and conservation
+- Produced progress and impact reports for monitoring and evaluation
+
+#### Entooma Sidai Project
+- Organized and maintained community development datasets
+- Supported reporting and operational decision-making
 ---
 
 ## 💻 Tech Stack
