@@ -52,7 +52,7 @@ Kirinyaga University – Kenya (2024)
 
 ## Junior Data Analyst Assistant / Data Entry Specialist
 **Akili Holdings Ltd – Kirinyaga, Kenya**  
-*Sept 2024 – Present*
+*Sept 2024 – 2026*
 
 - Clean, validate, and standardize large datasets to improve accuracy and usability
 - Identify and resolve data inconsistencies, enhancing overall data quality
